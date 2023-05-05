@@ -136,6 +136,19 @@
     margin-right: 40px;
     color: #7c123a;
   }
+
+  #services td {
+    background-color: #fefefe;
+    color: #281c56;
+
+  }
+
+  #services p {
+    font-size: 36px;
+    font-weight: bolder;
+    margin-bottom: 40px;
+    color: #281c56;
+}
   
   /* Portfolio */
   
@@ -172,17 +185,20 @@ div {
   h2 {
     margin-top: 0;
     font-size: 28px;
+
   }
   table {
     width: 100%;
     border-collapse: collapse;
     margin-top: 20px;
     font-size: 16px;
+    color: #281c56
   }
   th, td {
     text-align: left;
     padding: 8px;
     border-bottom: 1px solid #ddd;
+
   }
   thead th {
     background-color: #f2f2f2;
@@ -190,3 +206,4 @@ div {
   tbody tr:nth-child(even) {
     background-color: #f2f2f2;
   }
+
